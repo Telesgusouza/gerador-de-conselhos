@@ -26,6 +26,10 @@ The designs were created to the following widths:
 
 - Font size (quote): 28px
 
+# API 
+- https://api.adviceslip.com
+- br 
+
 ### Font
 
 - Family: [Manrope](https://fonts.google.com/specimen/Manrope)
